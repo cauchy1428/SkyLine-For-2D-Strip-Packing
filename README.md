@@ -24,7 +24,7 @@ To assist in understanding and debugging the algorithm, a `DEBUG` mode has been 
 - Uncomment the macro definition `#define DEBUG` in the code to enable DEBUG mode.
 - In DEBUG mode, the program will print detailed information about each step of the process and intermediate results to the console.
 
-- ## Improvements
+## Improvements
 - In this implementation, I used **C++ STL's `vector`** to record the `spaces` and `Rectangles`. While `vector` is a flexible and easy-to-use data structure, using other specialized data structures such as **heaps**, **balanced trees**, or **priority queues** may speed up the algorithm.
 
 
